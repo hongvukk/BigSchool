@@ -19,5 +19,5 @@ namespace BigSchool.ViewModels
                 out dateTime);
             return (isValid && dateTime > DateTime.Now);
         }
-    }
+    } 
 }
